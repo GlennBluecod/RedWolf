@@ -1,0 +1,13 @@
+{
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "compression": "^1.6.2",
+    "cookie-parser": "latest",
+    "express": "latest",
+    "method-override": "^2.3.7",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "multer": "latest"
+  }
+}
