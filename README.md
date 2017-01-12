@@ -1,4 +1,3 @@
 # RedWolf
-The awareness website for RedWolf software company. 
-In order to use it, you need NodeJS. 
-
+It is simply a notepad, built in MEAN stack, and one of my first MEAN applications. 
+It is really easy to use it
