@@ -8,6 +8,7 @@
     "method-override": "^2.3.7",
     "mongoose": "latest",
     "morgan": "latest",
-    "multer": "latest"
+    "multer": "latest",
+    "node-restful": "^0.2.5"
   }
 }
